@@ -17,7 +17,7 @@ func Test2(a int) (int, error) {
 }
 
 func Test3(a int) (string, error) {
-	return "0", errors.New("Fuckkk")
+	return "0", errors.New("Just Error")
 }
 
 
